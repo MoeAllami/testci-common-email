@@ -1,0 +1,5 @@
+2025-04-15T01:24:31.2972040Z Requested labels: ubuntu-latest
+2025-04-15T01:24:31.2972040Z Job defined at: MoeAllami/testci-common-email/.github/workflows/maven.yml@refs/heads/main
+2025-04-15T01:24:31.2972040Z Waiting for a runner to pick up this job...
+2025-04-15T01:24:31.4400477Z Job is waiting for a hosted runner to come online.
+2025-04-15T01:24:31.4400614Z Job is about to start running on the hosted runner: GitHub Actions

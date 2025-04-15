@@ -1,0 +1,35 @@
+﻿2025-04-15T01:24:35.1317724Z Current runner version: '2.323.0'
+2025-04-15T01:24:35.1344837Z ##[group]Operating System
+2025-04-15T01:24:35.1345684Z Ubuntu
+2025-04-15T01:24:35.1346193Z 24.04.2
+2025-04-15T01:24:35.1346698Z LTS
+2025-04-15T01:24:35.1347163Z ##[endgroup]
+2025-04-15T01:24:35.1347676Z ##[group]Runner Image
+2025-04-15T01:24:35.1348269Z Image: ubuntu-24.04
+2025-04-15T01:24:35.1348780Z Version: 20250406.1.0
+2025-04-15T01:24:35.1349985Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20250406.1/images/ubuntu/Ubuntu2404-Readme.md
+2025-04-15T01:24:35.1351381Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20250406.1
+2025-04-15T01:24:35.1352266Z ##[endgroup]
+2025-04-15T01:24:35.1352804Z ##[group]Runner Image Provisioner
+2025-04-15T01:24:35.1353378Z 2.0.422.1
+2025-04-15T01:24:35.1353823Z ##[endgroup]
+2025-04-15T01:24:35.1354928Z ##[group]GITHUB_TOKEN Permissions
+2025-04-15T01:24:35.1357276Z Contents: read
+2025-04-15T01:24:35.1357835Z Metadata: read
+2025-04-15T01:24:35.1358350Z Packages: read
+2025-04-15T01:24:35.1359265Z ##[endgroup]
+2025-04-15T01:24:35.1361751Z Secret source: Actions
+2025-04-15T01:24:35.1362819Z Prepare workflow directory
+2025-04-15T01:24:35.1760721Z Prepare all required actions
+2025-04-15T01:24:35.1816129Z Getting action download info
+2025-04-15T01:24:35.5850003Z ##[group]Download immutable action package 'actions/checkout@v2'
+2025-04-15T01:24:35.5851128Z Version: 2.7.0
+2025-04-15T01:24:35.5852094Z Digest: sha256:95d28907bc868c0bab52f05f1f84cf8416c9415fba4c92519bc0b83bdce1eae3
+2025-04-15T01:24:35.5853190Z Source commit SHA: ee0669bd1cc54295c223e0bb666b733df41de1c5
+2025-04-15T01:24:35.5853985Z ##[endgroup]
+2025-04-15T01:24:35.6889186Z ##[group]Download immutable action package 'actions/setup-java@v2'
+2025-04-15T01:24:35.6890040Z Version: 2.5.1
+2025-04-15T01:24:35.6890733Z Digest: sha256:6bc7c080fae40d9ddeebd6431baced4b4683753d16f67db48328b625c9f69c57
+2025-04-15T01:24:35.6891790Z Source commit SHA: 91d3aa4956ec4a53e477c4907347b5e3481be8c9
+2025-04-15T01:24:35.6892508Z ##[endgroup]
+2025-04-15T01:24:36.0520888Z Complete job name: build
